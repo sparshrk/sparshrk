@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Sparsh Lata
-
 AI Systems Architect | LLM Infrastructure Engineer | Production AI Design
 
 I design and build production-grade AI systems focused on reliability, scalability, and real-world business impact.
